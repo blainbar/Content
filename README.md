@@ -1,2 +1,2 @@
 # IoT Content
-Content for IoT Projects
+Content for IoT presentations for community.
